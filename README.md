@@ -11,3 +11,4 @@
 
     - Covid 19 in Indonesia Dashboard  
       _See on Tableau Public:_ [DASHBOARD](https://public.tableau.com/views/Covid19inIndonesia_17306004517490/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+      ![My Local Image](Portfolio/blob/main/Covid%2019%20in%20Indonesia.png)
