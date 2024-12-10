@@ -5,7 +5,8 @@
 - [x] Power BI -
       
     - Car Commerce Dashboard            
-      _See here:_ [HERE](https://github.com/satio98/Portfolio/blob/e881e6cd26c37e6023d0a72b244b0a9b182251ad/Power%20BI%20Car%20Commerce%20Dashboard/Upwork_Car_Sales_Dashboard.png)
+      _See here:_ [HERE]
+      ![Upwork Car Commerce Dashboard](https://github.com/satio98/Portfolio/blob/e881e6cd26c37e6023d0a72b244b0a9b182251ad/Power%20BI%20Car%20Commerce%20Dashboard/Upwork_Car_Sales_Dashboard.png)
 
 - [x] Python -
       
