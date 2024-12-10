@@ -2,6 +2,11 @@
 
 ## Following are my projects in Python and Tableau
 
+- [x] Power BI -
+      
+    - Car Commerce Dashboard
+      _See here:_ [HERE](https://github.com/satio98/Portfolio/blob/main/Airline%20Ticket%20Price%20Prediction.ipynb)
+
 - [x] Python -
       
     - Airline Ticket Prediction  
